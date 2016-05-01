@@ -6,7 +6,7 @@
 1.  Raspberry Pi 3 Model B
 2.  MicroSD card
 3.  MicroUSB cable for the power supply
-4.  USB battery chager / Max:2.5V
+4.  USB battery charger / Max:2.5V
 
 ### Easy-to-use Interface
 1.  Display
